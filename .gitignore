@@ -2,3 +2,4 @@
 node_modules
 read.txt
 public/uploads
+oldVersion(multer)
